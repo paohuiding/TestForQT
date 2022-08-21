@@ -22,3 +22,4 @@ private:
     Ui::Widget *ui;
 };
 #endif // WIDGET_H
+//test for C++
